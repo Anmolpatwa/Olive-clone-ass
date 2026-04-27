@@ -1,16 +1,61 @@
-# React + Vite
+Olive Website Clone – Frontend Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a frontend clone of the Olive website landing page, built as part of Assignment-1. The goal of the assignment was to recreate the UI and layout of the Olive platform homepage using modern frontend technologies.
 
-Currently, two official plugins are available:
+The Olive platform helps organizations evaluate and select technology vendors through an AI-powered evaluation workspace.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 Live Demo
 
-## React Compiler
+https://olive-clone-ass-p92b.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📂 GitHub Repository
 
-## Expanding the ESLint configuration
+https://github.com/Anmolpatwa/Olive-clone-ass
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Features
+Responsive landing page design
+Modern UI inspired by the Olive website
+Clean component-based structure
+Optimized layout using Tailwind CSS
+Mobile and desktop responsive design
+🛠️ Tech Stack
+React.js
+Vite
+Tailwind CSS
+JavaScript
+HTML5 / CSS3
+📁 Project Structure
+Olive-clone-ass
+│
+├── public
+│
+├── src
+│   ├── components
+│   │   ├── Navbar.jsx
+│   │   ├── Hero.jsx
+│   │   └── ScannerDemo.jsx
+│   │  
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── App.css
+│
+├── package.json
+└── README.md
+⚙️ Installation & Setup
+
+Clone the repository
+
+git clone https://github.com/Anmolpatwa/Olive-clone-ass.git
+
+Navigate to the project folder
+
+cd Olive-clone-ass
+
+Install dependencies
+
+npm install
+
+Run the development server
+
+npm run dev
